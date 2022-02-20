@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("index.js"),console.log(("h1",document.querySelector("h1")))})();

@@ -1,0 +1,23 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniilBiruchov/webpack-template.git"
+  },
+  "author": "Daniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniilBiruchov/webpack-template/issues"
+  },
+  "homepage": "https://github.com/DaniilBiruchov/webpack-template#readme",
+  "dependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
