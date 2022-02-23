@@ -1,5 +1,8 @@
 console.log('index.js')
 
-import { $ } from './module'
+import { Heder } from './class-heder'
+import { Main } from './class-main'
 
-console.log($('h1'))
+new Heder('.heder')
+
+new Main('.main')
